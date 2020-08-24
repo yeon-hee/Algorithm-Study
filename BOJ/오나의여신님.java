@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class ¿À³ªÀÇ¿©½Å´Ô {
+public class ì˜¤ë‚˜ì˜ì—¬ì‹ ë‹˜{
 
 	static class Pair{
 		int x; int y; int cnt;
