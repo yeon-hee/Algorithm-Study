@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class ¼öÁöÀÇ¼öÁö¸Â´Â¿©Çà {
+public class ìˆ˜ì§€ì˜ìˆ˜ì§€ë§ëŠ”ì—¬í–‰{
 	
 	static int R,C,ans;
 	static char array[][];
