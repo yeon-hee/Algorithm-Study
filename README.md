@@ -1,5 +1,5 @@
 # Algorithm-Study
-⚡️ Solving Algorithms
+⚡️ 알고리즘 문제 풀이
 
 ### # 
 - 백준
