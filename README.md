@@ -3,6 +3,5 @@
 
 ### # 
 - [백준](BOJ)
-- 프로그래머스
-- SWEA
-- 정올
+- [프로그래머스](Programmers)
+- [SWEA](SWEA)
