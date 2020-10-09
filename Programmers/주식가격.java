@@ -1,4 +1,4 @@
-
+﻿
 public class 주식가격 {
 	
 	public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class 주식가격 {
 		int prices[] = {4,3,1,1,0};
 		int array[] = solution(prices);
 		for(int i=0;i<array.length;i++) System.out.print(array[i]+" ");
-		
 	}
 	
 	static int[] solution(int[] prices) {
